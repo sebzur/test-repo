@@ -1,2 +1,3 @@
 def do_sth():
-    print("Sth")
+    print("Sth more complex")
+    print("And even more...")
